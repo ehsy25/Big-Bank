@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=BankAccount
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SmallBank\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name
+comment1.target=BankAccount(java.lang.String)
+comment1.text=\r\n\ Constructor\ with\ only\ name\ parameter\ and\ sets\ initial\ value\ to\ 0\r\n
+comment2.params=name\ balance
+comment2.target=BankAccount(java.lang.String,\ int)
+comment2.text=\r\n\ Constructor\ that\ takes\ both\ name\ and\ balance\ input\r\n
+comment3.params=
+comment3.target=int\ getBalance()
+comment3.text=\r\n\ method\ to\ return\ current\ balance\ of\ account\r\n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=\r\n\ method\ to\ return\ name\ of\ the\ account\ holder\r\n
+comment5.params=name
+comment5.target=void\ changeName(java.lang.String)
+comment5.text=\r\n\ mutator\ method\ to\ change\ name\ of\ account\ holder\r\n
+comment6.params=deposit
+comment6.target=void\ addBalance(int)
+comment6.text=\r\n\ method\ to\ return\ current\ balance\ of\ account\r\n\ conditional\ used\ to\ make\ sure\ deposit\ is\ greater\ than\ 0\r\n
+comment7.params=withdraw
+comment7.target=void\ withdraw(int)
+comment7.text=\r\n\ method\ to\ return\ current\ balance\ of\ account\r\n\ conditional\ used\ to\ check\ if\ withdraw\ is\ greater\ than\ 0\r\n\ and\ if\ withdraw\ is\ less\ than\ total\ balance\r\n
+numComments=8

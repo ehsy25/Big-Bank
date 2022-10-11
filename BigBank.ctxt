@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=BigBank
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BigBank\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=BigBank()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BigBank\r\n
+comment2.params=name\ balance
+comment2.target=void\ addAccount(java.lang.String,\ int)
+comment2.text=\r\n\ method\ to\ add\ new\ account\ to\ arryalist\r\n
+comment3.params=
+comment3.target=void\ printDetail()
+comment3.text=\ \r\n\ method\ to\ print\ out\ details\ of\ account\ with\ for\ each\ loop\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ get100()
+comment4.text=\r\n\ method\ to\ select\ accounts\ with\ balance\ lower\ than\ 100\ and\ return\ them\r\n\ shame\ the\ poor\r\n
+comment5.params=
+comment5.target=int\ getTotal()
+comment5.text=\r\n\ method\ to\ iterate\ through\ the\ arraylist\ and\ add\ the\ values\ of\ the\r\n\ balance\ of\ each\ account\ to\ an\ int\ variable\ and\ return\ the\ said\ int\r\n\ variable\r\n
+comment6.params=
+comment6.target=void\ remove()
+comment6.text=\r\n\ method\ to\ iterate\ through\ the\ arraylist\ and\ use\ a\ conditional\ to\r\n\ remove\ any\ acconut\ with\ a\ balance\ of\ 0\ from\ the\ arraylist\r\n
+comment7.params=
+comment7.target=java.util.ArrayList\ test()
+comment7.text=\r\n\ test\ method\ to\ access\ array\ values\r\n
+numComments=8
